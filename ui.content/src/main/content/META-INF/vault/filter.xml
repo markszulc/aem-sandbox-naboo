@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/naboo" mode="merge"/>
+    <filter root="/content/naboo" mode="merge"/>
+    <filter root="/content/dam/naboo" mode="merge">
+        <exclude pattern="/content/dam/naboo(/.*)?"/>
+        <include pattern="/content/dam/naboo/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/naboo/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/naboo" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments-themes/naboo" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments-fdm/naboo" mode="merge"/>
+    <filter root="/content/dam/naboo/sample_logo.png" mode="merge"/>
+    <filter root="/content/dam/naboo/sample_terms.png" mode="merge"/>
+    <filter root="/content/dam/naboo/wknd_logo.png" mode="merge"/>
+    <filter root="/content/dam/naboo/af_model_sample.json" mode="merge"/>
+</workspaceFilter>
