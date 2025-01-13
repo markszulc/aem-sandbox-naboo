@@ -35,9 +35,7 @@
     "https://main--frescopa-aem-ue--markszulc.aem.live",
     "https://main--frescopa-aem-ue--markszulc.aem.page",
     "https://publish-p137825-e1511252.adobeaemcloud.com",
-    "https://www.frescopa.coffee",
-    "https://.*\\.adobe\\.com",
-    "https://.*\\.adobe\\.net"
+    "https://frescopa.coffee"
   ],
   "allowedpaths":[
     ".*"
