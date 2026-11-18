@@ -48,7 +48,9 @@
     "https://main--frescopa-commerce--markszulc.aem.page",
     "https://publish-p137825-e1511252.adobeaemcloud.com",
     "https://frescopa.coffee",
-    "https://www.frescopa.coffee"
+    "https://www.frescopa.coffee",
+    "https://www.frescopacoffee.com",
+    "https://frescopacoffee.com"
   ],
   "allowedpaths":[
     ".*"
